@@ -1,0 +1,5 @@
+com.api.RickAndMorty
+com.api.RickAndMorty.config
+com.api.RickAndMorty.controller
+com.api.RickAndMorty.exceptions
+com.api.RickAndMorty.services
